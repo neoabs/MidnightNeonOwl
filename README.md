@@ -12,8 +12,14 @@ You can author your README using Visual Studio Code.  Here are some useful edito
 
 **Enjoy!** -->
 # MidnightNeonOwl
-# MidnightNeonOwl
+
 
 Two color themes for VS Code designed for Julia lang specifically.
 
-"Sweet" theme was designed for Xhubuntu with Sweet Dark theme and Candy Icons.
+"Sweet" theme was designed for Xhubuntu with Sweet Dark theme (https://www.pling.com/s/Gnome/p/1253385/) and Candy Icons (https://www.gnome-look.org/s/Gnome/p/1305251/).
+
+Made for Manjaro XFCE Adwaita Dark or something (don't remember):
+![Midnight Neon Owl](MidnightNeonOwl.png)
+
+Made for Xubuntu with Sweet Dark and Candy Icons (I like it more):
+![Sweet Midnight Neon Owl](SweetMidnightNeonOwl.png)
