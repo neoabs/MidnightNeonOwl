@@ -1,0 +1,26 @@
+{
+    "name": "midnightneonowl",
+    "displayName": "MidnightNeonOwl",
+    "description": "A theme for staying up all night. Made for Julia specically, might not work properly with different language. Future work will involve terminal.",
+    "version": "0.7.1",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "MidnightNeonOwl",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MidnightNeonOwl-color-theme.json"
+            },
+            {
+                "label": "Sweet MidnightNeonOwl",
+                "uiTheme": "vs-dark",
+                "path": "./themes/julia-sweet-midnightneonowl-color-theme.json"
+            }
+        ]
+    }
+}
